@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<data>
+    <inputs>
+        <comment-indentation>0</comment-indentation>
+        <indent-level>4</indent-level>
+        <no-tabs>true</no-tabs>
+        <line-up-parentheses>true</line-up-parentheses>
+        <blank-lines-after-declarations>true</blank-lines-after-declarations>
+        <brace-indent>0</brace-indent>
+        <case-indentation>4</case-indentation>
+        <blank-lines-after-commas>false</blank-lines-after-commas>
+        <space-after-function-call-names>false</space-after-function-call-names>
+        <star-comments>true</star-comments>
+        <space-after-parentheses>false</space-after-parentheses>
+        <format-all-comments>true</format-all-comments>
+        <ignore-newlines>true</ignore-newlines>
+        <blank-lines-before-block-comments>true</blank-lines-before-block-comments>
+        <blank-lines-after-procedures>true</blank-lines-after-procedures>
+        <comment-delimiters-on-blank-lines>true</comment-delimiters-on-blank-lines>
+        <swallow-optional-blank-lines>true</swallow-optional-blank-lines>
+        <space-after-cast>true</space-after-cast>
+        <line-length>100</line-length>
+        <break-before-boolean-operator>false</break-before-boolean-operator>
+        <gnu-style>true</gnu-style>
+        <dont-break-procedure-type>true</dont-break-procedure-type>
+        <format-all-comments>true</format-all-comments>
+        <max-file-len>1000</max-file-len>
+        <print-check>YES</print-check>
+        <str-check>YES</str-check>
+        <assert-check>STD_ASSERT</assert-check>
+        <rel-path-check>YES</rel-path-check>
+        <extern-check>YES</extern-check>
+        <dead-code>YES</dead-code>
+        <invalid-data>YES</invalid-data>
+    </inputs>
+</data>
+
