@@ -15,6 +15,7 @@ A Code Review tool for .C and .H files
 
 
 
+
 Usage:
 ------
 
@@ -36,6 +37,7 @@ Usage:
    You can delete the generated files (if not interested) using:
 
        find . -name "*.*_new" -delete
+
 
 
 Sample Errors and Warnings captured:
@@ -78,6 +80,7 @@ Sample Errors and Warnings captured:
 -> Use of 'true‘, ‘false’ instead of 'TRUE', 'FALSE'
 
 -> Use of printf
+
 
 
 Initial Contributors
