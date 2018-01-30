@@ -25,9 +25,9 @@ Usage:
 
 2) To Run => python code_review.py config.xml  [git | all | file <file-name>]
 
-       git -   Take the files that are categorized by "Modified" and "newly created" in git database (Git status command)
-       all -  All the ".c" & ".h" files from the working directory
-       file <file-name> - Single specific file
+       git              -   Take the files that are categorized by "Modified" and "newly created" in git database (Git status command)
+       all              -   All the ".c" & ".h" files from the working directory
+       file <file-name> -   Single specific file
 
 3) Errors are captured in a newly created file - "error_file" in same folder where command was executed.
 
