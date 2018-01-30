@@ -81,7 +81,7 @@ Sample Errors and Warnings captured:
 -> Use of printf
 
 
-Contributors
+Initial Contributors
 ------------
 https://github.com/aravindprasad90 
 
