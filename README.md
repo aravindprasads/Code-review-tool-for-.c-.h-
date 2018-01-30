@@ -9,7 +9,10 @@ A Code Review tool for .C and .H files. No Compilations needed and integrated wi
 
 -> Captures errors missed by Cppcheck and other similar tools
 
--> The errors captured here are mostly the ones missed by developers
+-> Errors captured here are mostly the ones missed by developers
+
+-> Developed with Python. 
+
 
 
 Usage:
