@@ -1,14 +1,5 @@
 # Code-review-tool-for-.c-.h-
 
-Contributors
-------------
-https://github.com/aravindprasad90 
-
-https://github.com/palani-s
-
-https://github.com/kpnoufal
-
-
 A Code Review tool for .C and .H files
 --------------------------------------
 
@@ -88,4 +79,13 @@ Sample Errors and Warnings captured:
 -> Use of 'true‘, ‘false’ instead of 'TRUE', 'FALSE'
 
 -> Use of printf
+
+
+Contributors
+------------
+https://github.com/aravindprasad90 
+
+https://github.com/palani-s
+
+https://github.com/kpnoufal
 
