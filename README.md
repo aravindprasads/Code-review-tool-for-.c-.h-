@@ -31,21 +31,40 @@ Usage:
 Sample Errors and Warnings captured:
 
 -> Capture Dangling Pointers
+
 -> Header Gaurds unused in Header files
+
 -> File sizes exceeding 1000 lines
+
 -> Use of  “ ” instead of <> for standard headers
+
 -> Use of strcpy, strcmp, sprintf instead of strncpy, strncmp, snprintf respectively
+
 -> Avoid Global Variables across C files
+
 -> Avoid extern declarations for functions in C files
+
 -> Use of “#if 0” in production code
+
 -> NULL check before free not required
+
 -> Use of goto statements
+
 -> Avoid Magic Numbers
+
 -> Avoiding generic types like ulong, uchar. Instead recommended using uint64_t, uint8_t
+
 -> Inline function exceeding more than 5 lines
+
 -> NULL pointer is not assigned after free
+
 -> Switch case blocks containing more lines thereby affecting readability
+
 -> Use of Asserts at non-critical places in code
+
 -> Avoid usage of Explicit Boolean value comparisons. Use (x) instead of (x == true)
+
 -> Use of 'true‘, ‘false’ instead of 'TRUE', 'FALSE'
+
 -> Use of printf
+
