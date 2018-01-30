@@ -1,17 +1,17 @@
 A Code Review tool for .C and .H files
 --------------------------------------
 
--> Compilation of code is not required
+-> No Compilations needed.
 
--> Can be integrated with Git Database
+-> Integrated with Git Database.
 
--> Can be used as a self-review tool 
+-> Captures errors missed by Cppcheck and other similar tools.
 
--> Captures errors missed by Cppcheck and other similar tools
+-> Errors captured here are mostly the ones missed by developers.
 
--> Errors captured here are mostly the ones missed by developers
+-> Developed using Python.
 
--> Developed using Python
+-> Can be used as a self-review tool.
 
 
 
