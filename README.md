@@ -1,7 +1,6 @@
 # Code-review-tool-for-.c-.h-
 
 A Code Review tool for .C and .H files
----------------------------------------
 
 -> No Compilations needed
 
@@ -19,7 +18,6 @@ A Code Review tool for .C and .H files
 
 
 Usage:
-------
 
 1) Copy the code_review.py and config.xml in your working directory
 
@@ -39,7 +37,6 @@ Usage:
 
 
 Sample Errors and Warnings captured:
-------------------------------------
 
 -> Capture Dangling Pointers
 
