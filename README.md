@@ -11,7 +11,8 @@ A Code Review tool for .C and .H files. No Compilations needed and integrated wi
 
 -> Errors captured here are mostly the ones missed by developers
 
--> Developed with Python. 
+-> Developed using Python
+
 
 
 
@@ -19,7 +20,7 @@ Usage:
 
 1) Copy the code_review.py and config.xml in your working directory
 
-2) To Run => ./code_review.py config.xml  [git | all | file <file-name>]
+2) To Run => python code_review.py config.xml  [git | all | file <file-name>]
 
        git -   Take the files that are categorized by "Modified" and "newly created" in git database (Git status command)
        all -  All the ".c" & ".h" files from the working directory
