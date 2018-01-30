@@ -2,10 +2,15 @@
 A Code Review tool for .C and .H files. No Compilations needed and integrated with Git 
 
 -> No Compilations needed
+
 -> Integrated with Git Database
+
 -> Can be used as a self-review tool 
+
 -> Captures errors missed by Cppcheck and other similar tools
+
 -> The errors captured here are mostly the ones missed by developers
+
 
 Usage:
 
