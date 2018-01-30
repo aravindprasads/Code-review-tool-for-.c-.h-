@@ -22,7 +22,7 @@ Usage:
 1) Copy the code_review.py and config.xml in your working directory
 
 2) Run the tool using the command 
-       python code_review.py config.xml  [git | all | file <file-name>]
+       python code_review.py config.xml  [git | all | file \<file-name\>]
 
        Input file to the tool varies based on the below options 
        
