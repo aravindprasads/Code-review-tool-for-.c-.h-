@@ -1,5 +1,7 @@
 # Code-review-tool-for-.c-.h-
-A Code Review tool for .C and .H files. No Compilations needed and integrated with Git 
+
+A Code Review tool for .C and .H files
+---------------------------------------
 
 -> No Compilations needed
 
@@ -17,6 +19,7 @@ A Code Review tool for .C and .H files. No Compilations needed and integrated wi
 
 
 Usage:
+------
 
 1) Copy the code_review.py and config.xml in your working directory
 
@@ -26,13 +29,17 @@ Usage:
        all -  All the ".c" & ".h" files from the working directory
        file <file-name> - Single specific file
 
-3) Indented files are generated with _new extension during the execution of the tool
+3) Errors are captured in a newly created file - "error_file" in same folder where command was executed.
+
+4) Indented files are generated with _new extension during the execution of the tool
 
    You can delete the generated files (if not interested) using:
 
        find . -name "*.*_new" -delete
 
+
 Sample Errors and Warnings captured:
+------------------------------------
 
 -> Capture Dangling Pointers
 
