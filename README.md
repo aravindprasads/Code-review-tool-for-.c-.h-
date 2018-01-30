@@ -2,7 +2,12 @@
 
 Contributors
 ------------
-@palani-s
+https://github.com/aravindprasad90 
+
+https://github.com/palani-s
+
+https://github.com/kpnoufal
+
 
 A Code Review tool for .C and .H files
 --------------------------------------
@@ -18,7 +23,6 @@ A Code Review tool for .C and .H files
 -> Errors captured here are mostly the ones missed by developers
 
 -> Developed using Python
-
 
 
 
