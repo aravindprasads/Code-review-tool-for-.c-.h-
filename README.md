@@ -1,5 +1,9 @@
 # Code-review-tool-for-.c-.h-
 
+Contributors
+------------
+@palani-s
+
 A Code Review tool for .C and .H files
 --------------------------------------
 
