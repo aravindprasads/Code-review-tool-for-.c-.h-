@@ -47,7 +47,7 @@ Sample Errors and Warnings captured:
 
 -> Header Gaurds unused in Header files
 
--> File sizes exceeding 1000 lines
+-> File sizes exceeding 1000 lines (Number of lines - Configurable via conf file)
 
 -> Use of  “ ” instead of <> for standard headers
 
