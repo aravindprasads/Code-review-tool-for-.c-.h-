@@ -1,4 +1,4 @@
-A Code Review tool for .C and .H files
+A Python-based Code Review tool for .C and .H files
 --------------------------------------
 
 -> No Compilations needed.
